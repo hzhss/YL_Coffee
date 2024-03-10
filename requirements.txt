@@ -1,5 +1,6 @@
 sys
 sqlite3
+PyQt5
 PyQt5.uic
 PyQt5.QtWidgets.QMainWindow
 PyQt5.QtWidgets.QApplication
