@@ -1,3 +1,4 @@
+#Yandex
 def my_superfunction():
     print('SOOO HARD')
 
